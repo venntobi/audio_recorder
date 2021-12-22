@@ -1,2 +1,4 @@
 *.csv
 *.wav
+audio_files/
+env/
